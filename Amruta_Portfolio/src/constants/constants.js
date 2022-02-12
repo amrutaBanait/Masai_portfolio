@@ -65,7 +65,7 @@ export const projects = [
     image: '/images/food1.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
     source: 'https://github.com/amrutaBanait/FoodApp',
-    visit: 'https://food-miniapp.netlify.app',
+    visit: '![lakmeMy](https://user-images.githubusercontent.com/93419962/153702104-e8f83487-ab26-40b8-a8dd-d3df26b9e65c.PNG)',
     id: 1,
   },
 
@@ -94,6 +94,6 @@ export const TimeLineData = [
 
 
 
-
+//https://amruta-portfolio.vercel.app/     Deployment Link
 
 

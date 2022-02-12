@@ -17,11 +17,11 @@ export const Container = styled.div`
   }
 `;
 export const FormHeading = styled.h1`
-  background: -webkit-linear-gradient(#fff, #f40c27);
+  background: -webkit-linear-gradient(#fff, #fff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 `;
-export const TextContainer = styled.div`
+export const TextContainer = styled.div`                         
   width: 90%;
   padding: 5px;
   margin: 10px 0;

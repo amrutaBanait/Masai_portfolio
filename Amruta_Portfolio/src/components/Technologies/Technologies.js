@@ -5,7 +5,7 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { SkillsContainer, SkillsBox, TechTag } from './TechnologiesStyles';
 
 // const techStacks = ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Node', 'ExpressJS', 'Java', 'Mongodb', 'Linux', 'Windows', 'VS code']
-const techStacks = ['HTML', 'CSS','JavaScript','Node', 'ExpressJS','Mongodb','Redux', 'React','Linux', 'Windows', 'VS code'];
+const techStacks = ['HTML', 'CSS','JavaScript','Node', 'ExpressJS','Mongodb','Redux', 'React','Linux', 'Windows', 'VS code',"git"];
 const Technologies = () =>  (
   <Section id = 'tech'>
    <br />
