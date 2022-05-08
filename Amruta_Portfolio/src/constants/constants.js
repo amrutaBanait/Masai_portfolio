@@ -68,7 +68,7 @@ export const projects = [
     image: '/images/realmeHome.png',
     tags: ['reactjs', 'redux', 'firebase'],
     source: 'https://github.com/amrutaBanait/Realme-Clone',
-    visit: 'https://realmeno1.netlify.app',
+    visit: 'https://realmeno1.netlify.app/',
     id: 1,
   },
 ];
